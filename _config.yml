@@ -1,11 +1,11 @@
 # Site settings
-title: 韦小康的博客
+title: Weixk Blog
 header-img: img/home-bg.jpg
-email: weixkz@qq.com
+email: weixkz@gmail.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
 url: "http://yourdomain.com"
-twitter_username: ""
+twitter_username: weixiaokang
 github_username:  weixiaokang
 facebook_username:  小康韦
 
