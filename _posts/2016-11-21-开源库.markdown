@@ -1,0 +1,24 @@
+---
+layout:     post
+title:      "开源库"
+subtitle:   "站在巨人的肩膀上：）"
+date:       2016-11-21 21:45:30
+author:     "Weixk"
+header-img: ""
+---
+### Android开源库
+* [Android开源项目分类汇总](https://github.com/weixiaokang/android-open-project)
+
+### Android刷新控件
+* [BGARefreshLayout](https://github.com/weixiaokang/BGARefreshLayout-Android)
+* [Android下拉刷新开源库集锦](https://github.com/weixiaokang/Android_PullToRefreshLibrary_Collection)
+
+### Android消息传递
+* [EventBus](https://github.com/weixiaokang/EventBus)
+
+### 图像处理
+* [javacv](https://github.com/weixiaokang/javacv)
+* [研究 Android 用 OpenGL ES 2.0 处理相机预览和滤镜](https://github.com/weixiaokang/CameraFilter)
+
+### 动态加载
+* [Apk动态加载框架](https://github.com/weixiaokang/dynamic-load-apk)
